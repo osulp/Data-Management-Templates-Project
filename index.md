@@ -16,7 +16,7 @@ The template is available in the following formats:
 [Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs) | [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
 
 **Example** : A fictional example that shows what this document could look like for a specific research project.  
-[Data Management Implementation Document Example](Implementation_Template/Implementation_Template_example.md)
+[Data Management Implementation Document Example](Implementation_Template/Implementation_Template_Example.md)
 
 
 ### 2. Internal Data Sharing Plan

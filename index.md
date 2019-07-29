@@ -13,7 +13,7 @@ This template will help researchers take a Data Management Plan created in the p
 
 **Download The Template** : *For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files).*  
 The template is available in the following formats:  
-[Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs) | [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
+[Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs) (Coming soon) | [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex) (Coming soon)  
 
 **Example** : A fictional example that shows what this document could look like for a specific research project.  
 [Data Management Implementation Document Example](Implementation_Template/Implementation_Template_Example.md)

@@ -15,7 +15,7 @@ This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name
 ## GENERAL INFORMATION
 
 
-1) Title of Dataset 
+1) Title of Dataset  
 *[The title should not include a citation, even if the dataset is related to a dissertation of paper. Instead of naming the dataset something like "dataset used for the dissertation of Name Surname 'A very interesting dissertation', 2019" consider naming it "A very interesting dissertation - Data", or "Dataset for a very interesting dissertation". The author of the dataset will be clearly documented, so no need to add authors in the title.]*
 
 2) Creator Information  

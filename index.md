@@ -27,7 +27,7 @@ Disagreements between the members of a team regarding the sharing of research da
 
 **Download The Template** : *For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files).*  
 The template is available in the following formats:  
-[Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs) | [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
+[Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs) (coming soon) | [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex) (comming soon)
 
 **Example** : A fictional example that shows what this document could look like for a specific research project.  
 [Internal Data Sharing Document Example](Internal_Sharing_Template/Internal_Sharing_Template_example.md)
@@ -40,7 +40,7 @@ A Documentation File (sometimes referred to as README file)  has information abo
 
 **Download The Template** : *For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files).*  
 The template is available in the following formats:  
-[Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs) | [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
+[Markdown](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md) | [Word Document](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs) (comming soon)| [LaTeX](https://github.com/osulp/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex) (comming soon)  
 
 **Example** : A fictional example that shows what this document could look like for a specific dataset.  
 [Documentation File Example](Documentation_Template/Documentation_Template_example.md)

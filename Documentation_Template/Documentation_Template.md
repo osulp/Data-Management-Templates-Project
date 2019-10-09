@@ -39,8 +39,8 @@ Email:
 ORCID:  
 Role:  
 
-3) Collaborator information
-*[Collaborators are not authors, but have contributed somehow to the dataset.]*
+3) Contributor information
+*[Contributors are not authors, but have contributed somehow to the dataset.]*
 
 Name:  
 Institution:  

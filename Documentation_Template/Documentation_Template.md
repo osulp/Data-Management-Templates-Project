@@ -22,6 +22,7 @@ This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name
 *[Fill in the names and information about the researchers that are considered authors of this dataset. ]*  
 *[ORCID is a persistent digital identifier for researchers. https://orcid.org/ We encourage researchers to get one, but it is optional. You may chose to use a different author identifier if you have one.]*  
 *[Role: role of the author in the dataset. Consider using the CreDit taxonomy to describe these roles: 3rd page in https://openscholar.mit.edu/sites/default/files/dept/files/lpub28-2_151-155)pdf ]*
+*[Creators are mentioned when citing the dataset. Make sure that they coincide with the Creator field in the repository record]*
 
 Name:  
 Institution:  
@@ -40,7 +41,7 @@ ORCID:
 Role:  
 
 3) Contributor information
-*[Contributors are not authors, but have contributed somehow to the dataset.]*
+*[Contributors are not authors, but have contributed somehow to the dataset. They are not mentioned when citing the dataset. Make sure that they coincide with the Contributor field in the repository record.]*
 
 Name:  
 Institution:  

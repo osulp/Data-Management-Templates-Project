@@ -2,7 +2,8 @@
 [Dates in this document should use the format YYYY-MM-DD.]
 [Scholarly outputs cited in this document should follow a consistent style (e.g. APA style)]
 [When you are done filling this template delete all instructions and delete any sections or questions that do not apply to your dataset.]
-[All of the items in this template are optional, but fill it as thoroughly as possible to ensure the reusability of your dataset.]
+[Required items in this template are marked with a REQUIRED note next to the required field]
+[Items not marked as REQUIRED are optional, but fill this readme file as thoroughly as possible to ensure the reusability of your dataset.]
 [You may create more than one readme file in your dataset, if appropriate (e.g. one for your tabular data, one for your code)]
 [This template was created by Research Data Services at Oregon State University by modifying and expanding the University of Minnesota Libraries readme template that can be found in z.umn.edu/readme]
 [Other sources used to elaborate this dataset: Georgia tech metadata template http://d7.library.gatech.edu/research-data/metadata;]
@@ -17,10 +18,10 @@ This documentation file was generated on [date in YYYY-MM-DD format] by [Name]
 -------------------
 
 
-1. Title of Dataset 
+1. Title of Dataset - REQUIRED
 
 
-2. Creator Information
+2. Creator Information - REQUIRED
 
 [Fill in the names and information about the researchers that are considered authors of this dataset. ]
 [ORCID is a persistent digital identifier for researchers. https://orcid.org/ We encourage researchers to get one, but it is optional. You may chose to use a different author identifier if you have one.]
@@ -62,7 +63,7 @@ Email:
 ORCID:
 Role:
 
-3. Contact Information 
+3. Contact Information - REQUIRED
 [Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]
 
 Name:
@@ -77,7 +78,7 @@ ORCID:
 CONTEXTUAL INFORMATION
 -------------------
 
-1. Abstract for the dataset 
+1. Abstract for the dataset - REQUIRED
 [The abstract should describe the dataset, not the research or the results obtained after analyzing the dataset. The dataset abstract should be different than an article or book abstract, even if the dataset is tightly related to the article or book.]
 
 
@@ -106,7 +107,7 @@ SHARING/ACCESS INFORMATION
 -------------------------- 
 
 
-1. Licenses/restrictions placed on the data:
+1. Licenses/restrictions placed on the data - REQUIRED
 [E.g. This work is licensed under a Creative Commons No Rights Reserved (CC0) license; E.g. This work is on the Public Domain; E.g. This work is licensed under a Creative Commons Attribution 4.0 International License]
 
 2. Links to publications related to the dataset:
@@ -149,13 +150,13 @@ VERSIONING AND PROVENANCE
 
 
 --------------------------
-METHODOLOGICAL INFORMATION
+METHODOLOGICAL INFORMATION - REQUIRED
 --------------------------
 [Describe the methodology used to generate the dataset]
+[It is REQUIRED to include methodological information about your dataset. Since not all subsections may apply to your work, feel free to modify these so that they represent your work appropriately.]
 [Include links or references to publications or other documentation containing methodological information]
 [Do not copy paste the methods section from a pending publication unless you have made sure that you can do that. Some journals may consider this as a publication, and will not accept a manuscript with a section that has already been published.]
 [If you want to refer to an article that has not been accepted for publication yet, include as much information as you have at the moment (e.g. authors and title). If the publication has been published include the DOI in the citation. If the publication does not have a DOI (like a dissertation) include a URL.]
-
 
 
 1. Description of methods used for collection/generation of data: 
@@ -184,9 +185,9 @@ METHODOLOGICAL INFORMATION
 
 
 ---------------------
-DATA & FILE OVERVIEW
+DATA & FILE OVERVIEW - REQUIRED
 ---------------------
-[All files in the dataset should be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]
+[All files in the dataset must be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]
 [Filenames should include extension.]
 
 
@@ -217,7 +218,8 @@ DATA & FILE OVERVIEW
 -----------------------------------------
 TABULAR DATA-SPECIFIC INFORMATION FOR: [FILENAME]
 -----------------------------------------
-[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. Include the units.]
+[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. ]
+[Consider adding, when appropriate: Data type (integer, Boolean, character, floating point, etc. Instrument(s) used); Units; Acceptable values; Abbreviations;]
 
 
 1. Number of variables:

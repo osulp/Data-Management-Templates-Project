@@ -90,7 +90,7 @@ CONTEXTUAL INFORMATION
 
 
 3. Date of data collection:
-[single date or range or approximate date in format YYYY-MM-DD]
+[single date or range of dates in format YYYY-MM-DD]
 
 4. Geographic location of data collection:
 [Location of the data collection.]

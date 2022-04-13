@@ -63,7 +63,7 @@ Email:
 ORCID:
 Role:
 
-3. Contact Information - REQUIRED
+4. Contact Information - REQUIRED
 [Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]
 
 Name:

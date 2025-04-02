@@ -6,7 +6,7 @@
 [Items not marked as REQUIRED are optional, but fill this readme file as thoroughly as possible to ensure the reusability of your dataset.]
 [You may create more than one readme file in your dataset, if appropriate (e.g. one for your tabular data, one for your code)]
 [This template was created by Research Data Services at Oregon State University by modifying and expanding the University of Minnesota Libraries readme template that can be found in z.umn.edu/readme]
-[Other sources used to elaborate this dataset: Georgia tech metadata template http://d7.library.gatech.edu/research-data/metadata;]
+[Other sources used to elaborate this template: Georgia tech metadata template http://d7.library.gatech.edu/research-data/metadata;]
 [For questions or guidance about using this template contact researchdataservices@oregonstate.edu]
 [This template is published under a CC0 license. You are free to reuse, redistribute and modify this template as you wish.]
 

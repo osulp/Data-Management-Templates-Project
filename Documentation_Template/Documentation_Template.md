@@ -1,319 +1,251 @@
-*[Instructions in this document are in between brackets.]*  
-*[Dates in this document should use the format YYYY-MM-DD.]*  
-*[Scholarly outputs cited in this document should follow a consistent style (e.g. APA style)]*  
-*[When you are done filling this template delete all instructions and delete any sections or questions that do not apply to your dataset.]*  
-*[All of the items in this template are optional, but fill it as thoroughly as possible to ensure the reusability of your dataset.]*  
-*[You may create more than one readme file in your dataset, if appropriate (e.g. one for your tabular data, one for your code)]*  
-*[This template was created by Research Data Services at Oregon State University by modifying and expanding the University of Minnesota Libraries readme template that can be found in z.umn.edu/readme]*  
-*[Other sources used to elaborate this dataset: Georgia tech metadata template http://d7)library.gatech.edu/research-data/metadata;]*  
-*[For questions or guidance about using this template contact researchdataservices@oregonstate.edu]*  
-*[This template is published under a CC0 license. You are free to reuse, redistribute and modify this template as you wish.]*  
+<!--[Instructions in this document are in between symbols <!--[ ]-->
+<!--[This template is formatted in markdown, and should be saved using the extension ".md". You can edit this file in any plain text editor (e.g. notepad). Sections and subsections are formatted with hash symbols (#) at the beginning of the header line. # for sections, ## for subsections, ### for subsubsections, etc. Lists are formatted with asterisks (*) preceeding every item.]-->
+<!--[Dates in this document should use the format YYYY-MM-DD.]-->
+<!--[Format the scholarly outputs cited in this document following the style of your choice (e.g. APA style)]-->
+<!--[When you are done filling this template delete all instructions and delete any sections or questions that do not apply to your dataset.]-->
+<!--[Required items in this template are marked with a REQUIRED note next to the required field]-->
+<!--[Items not marked as REQUIRED are optional, but fill this readme file as thoroughly as possible to ensure the reusability of your dataset.]-->
+<!--[You may create more than one readme file in your dataset, if appropriate (e.g. one for your tabular data, one for your code)]-->
+<!--[This template is published under a CC0 license. You are free to reuse, redistribute and modify this template as you wish.]-->
+<!--[This template was created by Research Data Services at Oregon State University by modifying and expanding the University of Minnesota Libraries readme template that can be found in z.umn.edu/readme]-->
+<!--[Other sources used to elaborate this template: Georgia tech metadata template http://d7.library.gatech.edu/research-data/metadata;]-->
+<!--[For questions or guidance about using this template contact researchdataservices@oregonstate.edu]-->
 
-This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name]*
 
+This documentation file was generated on [date in YYYY-MM-DD format] by [Name]
 
-## GENERAL INFORMATION
 
+# GENERAL INFORMATION
 
-1) Title of Dataset  
-*[The title should not include a citation, even if the dataset is related to a dissertation of paper. Instead of naming the dataset something like "dataset used for the dissertation of Name Surname 'A very interesting dissertation', 2019" consider naming it "A very interesting dissertation - Data", or "Dataset for a very interesting dissertation". The author of the dataset will be clearly documented, so no need to add authors in the title.]*
+## Title of Dataset - REQUIRED
 
-2) Creator Information  
-*[Fill in the names and information about the researchers that are considered authors of this dataset. ]*  
-*[ORCID is a persistent digital identifier for researchers. https://orcid.org/ We encourage researchers to get one, but it is optional. You may chose to use a different author identifier if you have one.]*  
-*[Role: role of the author in the dataset. Consider using the CreDit taxonomy to describe these roles: 3rd page in https://openscholar.mit.edu/sites/default/files/dept/files/lpub28-2_151-155)pdf ]*
-*[Creators are mentioned when citing the dataset. Make sure that they coincide with the Creator field in the repository record]*
+## Creator Information - REQUIRED
 
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
+<!--[Fill in the names and information about the researchers that are considered authors of this dataset. ]-->
+<!--[ORCID is a persistent digital identifier for researchers. https://orcid.org/ We encourage researchers to get one, but it is optional. You may chose to use a different author identifier if you have one.]-->
+<!--[Role: role of the author in the dataset. Consider using the CreDit taxonomy to describe these roles: http://credit.niso.org/contributor-roles-defined/]  -->
+<!--[Creators are mentioned when citing the dataset. Make sure that they coincide with the Creator field in the repository record]-->
 
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
+Name:
+Institution:
+College, School or Department:
+Address:
+Email:
+ORCID:
+Role:
 
-3) Contributor information
-*[Contributors are not authors, but have contributed somehow to the dataset. They are not mentioned when citing the dataset. Make sure that they coincide with the Contributor field in the repository record.]*
 
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
 
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
+Name:
+Institution:
+College, School or Department:
+Address:
+Email:
+ORCID:
+Role:
 
-4) Contact Information  
-*[Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]*
+## Contributor information
+<!--[Contributors are not authors, they are collaborators that have contributed somehow to the dataset. They are not mentioned when citing the dataset. Make sure that they coincide with the Contributor field in the repository record.]-->
 
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
+Name:
+Institution:
+College, School or Department:
+Address:
+Email:
+ORCID:
+Role:
 
+Name:
+Institution:
+College, School or Department:
+Address:
+Email:
+ORCID:
+Role:
 
-## CONTEXTUAL INFORMATION
+## Contact Information - REQUIRED
+<!--[Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]-->
 
+Name:
+Institution:
+College, School or Department:
+Address:
+Email:
+ORCID:
 
-1) Abstract for the dataset  
-*[The abstract should describe the dataset, not the research or the results obtained after analyzing the dataset. The dataset abstract should be different than an article or book abstract, even if the dataset is tightly related to the article or book.]*
+## Publisher
+Oregon State University
 
+# CONTEXTUAL INFORMATION
 
+## Abstract for the dataset - REQUIRED
+<!--[The abstract should describe the dataset, not the research or the results obtained after analyzing the dataset. The dataset abstract should be different than an article or book abstract, even if the dataset is tightly related to the article or book.]-->
 
-2) Context of the research project that this dataset was collected for.  
-*[Any contextual information that will help to interpret the dataset. You can give details about the research questions that prompted the collection of this dataset. ]*
+## Context of the research project that this dataset was collected for
+<!--[Any contextual information that will help to interpret the dataset. You can give details about the research questions that prompted the collection of this dataset. ]-->
 
+## Date of data collection
+<!--[single date or range of dates in format YYYY-MM-DD]-->
 
-3) Date of data collection:  
-*[single date or range or approximate date in format YYYY-MM-DD]*
+## Geographic location of data collection
+<!--[Location of the data collection.]-->
+<!--[If you include coordinates use format: "latitude, longitude" where latitude and longitude are preferably in fraction of degrees (a decimal number), not sexagesimal, and where north latitude is positive (south is negative) and east longitude is positive (west is negative).]-->
+<!--[If you include a Bounding box indicate Label, Latitude North, Latitude South, Longitude West, Longitude East]-->
 
-4) Geographic location of data collection:  
-*[Location of the data collection.]*  
-*[If you include coordinates use format: "latitude, longitude" where latitude and longitude are preferably in fraction of degrees (a decimal number), not sexagesimal, and where north latitude is positive (south is negative) and east longitude is positive (west is negative).]*  
-*[If you include a Bounding box indicate Label, Latitude North, Latitude South, Longitude West, Longitude East]*
+## Funding sources that supported the collection of the data
+<!--[Include agency and grant number if applicable]-->
 
+# SHARING/ACCESS INFORMATION
 
+## Licenses/restrictions placed on the data - REQUIRED
+<!--[E.g. This work is licensed under a Creative Commons No Rights Reserved (CC0) license; E.g. This work is on the Public Domain; E.g. This work is licensed under a Creative Commons Attribution 4.0 International License]-->
+<!--[We recommend licenses CC0 and CC-BY because they are open and facilitate reuse. This license selector may help you choose the appropriate license: https://ufal.github.io/public-license-selector/]-->
 
-5) Funding sources that supported the collection of the data:  
-*[Include agency and grant number if applicable]*
+## Licenses/restrictions placed on the code
+<!--[If the dataset includes code and you’d like to publish the code with a different license than the rest of the materials, make sure that you indicate clearly which materials are licensed under each license, and include the license text with your code files.]-->
 
+## Links to publications related to the dataset
+<!--[If there is a publication that uses or cites the data that has not been approved yet, include it here anyway, with as much information as you have at the moment (e.g. authors and title). If the publications have been published include the DOI in the citation. ]-->
 
+## Links to other publicly accessible locations of the data
 
+## Recommended citation for the data
+<!--[Doe, J. & Smith, J. (2018) Title of this wonderful dataset [Data set]. Oregon State University. https://doi.org/10.7267/doid01DOI ]-->
 
-## SHARING/ACCESS INFORMATION
+## Dataset Digital Object Identifier (DOI)
+<!--[Information to add at the end of the submission process, after dataset review.]-->
 
+## Limitations to reuse
+<!--[Describe any known problems or caveats that would limit reuse of the data.]-->
 
+# VERSIONING AND PROVENANCE 
 
-1) Licenses/restrictions placed on the data:  
-*[E.g. This work is licensed under a Creative Commons No Rights Reserved (CC0) license; E.g. This work is on the Public Domain; E.g. This work is licensed under a Creative Commons Attribution 4)0 International License]*
+## Last modification date
+<!--[Date dataset was last modified in format YYYY-MM-DD]-->
 
-2) Links to publications related to the dataset:  
-*[If there is a publication that uses or cites the data that has not been approved yet, include it here anyway, with as much information as you have at the moment (e.g. authors and title). If the publications have been published include the DOI in the citation. ]*
+## Links/relationships to other versions of this dataset
+<!--[If there are previous versions explain where the other version is, when it was updated, and summarize the changes.]-->
+<!--[If a very granular description of the versions of the dataset is needed (e.g. file by file) this section can be moved to Data and File overview.]-->
 
-3) Links to other publicly accessible locations of the data:
+## Was data derived from another source?
+<!--[Answer Yes or No. If Yes, list source(s).]-->
+<!--[If data was derived from another source, please state if the data are publicly available, some of the data cannot be made publicly available, or if none of the data can be made publicly available]-->
+<!--[If there is code in the dataset, and the code is in a code repository such as GitHub explain how this snapshot of the code is tagged in the repository]-->
 
+## Additional related data collected that was not included in the current data package
 
-4) Recommended citation for the data:  
-*[Doe, J. & Smith, J. (2018) Title of this wonderful dataset *[Data set]*. Oregon State University. https://doi.org/10.7267/doid01DOI ]*
+# METHODOLOGICAL INFORMATION - REQUIRED
 
+<!--[Describe the methodology used to generate the dataset]-->
+<!--[It is REQUIRED to include methodological information about your dataset. Since not all subsections may apply to your work, feel free to modify these so that they represent your work appropriately.]-->
+<!--[Include links or references to publications or other documentation containing methodological information]-->
+<!--[Do not copy paste the methods section from a pending publication unless you have made sure that you can do that. Some journals may consider this as a publication, and will not accept a manuscript with a section that has already been published.]-->
+<!--[If you want to refer to an article that has not been accepted for publication yet, include as much information as you have at the moment (e.g. authors and title). If the publication has been published include the DOI in the citation. If the publication does not have a DOI (like a dissertation) include a URL.]-->
 
-5) Dataset Digital Object Identifier (DOI)  
-*[Information to add at the end of the submission process, after dataset review.]*
+## Description of methods used for collection/generation of data 
+<!--[experimental design or protocols used in data collection]-->
+<!--[if the data is qualitative research that used interviews or focus groups consider describing your work using the COREQ checklist from Tong et al, 2007 https://doi.org/10.1093/intqhc/mzm042]-->
 
+## Methods for processing the data 
+<!--[describe how the submitted data were generated from the raw or collected data]-->
 
-6) Limitations to reuse  
-*[Describe any known problems or caveats that would limit reuse of the data.]*
+## Instrument- or software-specific information needed to interpret the data
+<!--[If software is needed to interpret the data, explain where to get the software. If software is not openly available include it in the dataset (if possible). If including the software is not possible consider changing the format of the dataset. Include version of software. ]-->
 
+## Standards and calibration information, if appropriate
 
+## Environmental/experimental conditions
+<!--[e.g., cloud cover, atmospheric influences, computational environment, etc.]-->
 
-## VERSIONING AND PROVENANCE
+## Describe any quality-assurance procedures performed on the data:
 
+## People involved with sample collection, processing, analysis and/or submission:
+<!--[If they are not include as collaborators, or if you want to describe more carefully who did what.]-->
 
-1) Last modification date  
-*[Date dataset was last modified in format YYYY-MM-DD]*
+---------------------
+# DATA & FILE OVERVIEW - REQUIRED
+---------------------
+<!--[All files in the dataset must be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]-->
+<!--[Filenames should include extension.]-->
 
+## File List
+   A. Filename:        
+      Short description:        
+        
+   B. Filename:        
+      Short description:        
+        
+   C. Filename:        
+      Short description:
 
-2) Links/relationships to other versions of this dataset:  
-*[If there are previous versions explain where the other version is, when it was updated, and summarize the changes.]*  
-*[If a very granular description of the versions of the dataset is needed (e.g. file by file) this section can be moved to Data and File overview.]*
+## Relationship between files
 
+## Formats
+<!--[List all the formats present in this dataset. Include explanations or instructions if necessary (e.g. links to page describing a metadata standard)] -->
 
-3) Was data derived from another source?  
-*[Answer Yes or No. If Yes, list source(s).]*  
-*[If there is code in the dataset, and the code is in a repository explain how this snapshot of the code is tagged in the repository]*
+-----------------------------------------
+# TABULAR DATA-SPECIFIC INFORMATION FOR: [FILENAME]
+-----------------------------------------
+<!--[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. ]-->
+<!--[Consider adding, when appropriate: Data type (integer, Boolean, character, floating point, etc. Instrument(s) used); Units; Acceptable values; Abbreviations;]-->
 
+## Number of variables
 
-4) Additional related data collected that was not included in the current data package:
+## Number of cases/rows 
 
+## Missing data codes
+   * Code/symbol        Definition
+   * Code/symbol        Definition
 
+## Variable List
+<!--[Include all information that is important: Value labels if appropriate. Units if appropriate. Min and Max values if appropriate. ]-->
 
-## METHODOLOGICAL INFORMATION
+   Example. 
+   * Variable: Species 
+      - Description: Species of the Drosophila sampled
+      - Values:
+         DML = Drosophila melanogaster
+         DMJ = Drosophila mojavensis
+         O = Other                
 
+   * Variable: <!--[variable name]-->
+      - Description: <!--[description of the variable]-->
+      - Units: <!--[units if appropriate]-->
+                    
+   * Variable: <!--[variable name]-->
+      - Description: <!--[description of the variable]-->
+      - Units: <!--[units if appropriate]-->
 
-*[Describe the methodology used to generate the dataset]*  
-*[Include links or references to publications or other documentation containing methodological information]*  
-*[Do not copy paste the methods section from a pending publication unless you have made sure that you can do that. Some journals may consider this as a publication, and will not accept a manuscript with a section that has already been published.]*  
-*[If you want to refer to an article that has not been accepted for publication yet, include as much information as you have at the moment (e.g. authors and title). If the publication has been published include the DOI in the citation. If the publication does not have a DOI (like a dissertation) include a URL.]*
+-----------------------------------------
+# CODE-SPECIFIC INFORMATION: 
+-----------------------------------------
 
+## Installation 
+<!--[Instructions to install the software, if necessary]-->
 
+## Requirements
+<!--[Describe all programs and libraries that your code relies on. What should a user install to make sure that the code can be run successfully?]-->
 
-1) Description of methods used for collection/generation of data:  
-*[experimental design or protocols used in data collection]*
+## Usage
+<!--[Describe how to use the code. Include examples]-->
 
-2) Methods for processing the data:  
-*[describe how the submitted data were generated from the raw or collected data]*
+## Support
+<!--[Will the authors support others that want to use these scripts?]-->
 
+## Runtime requirements
+<!--[Describe the approximate runtime needed to reproduce analysis on a current year desktop. If it is not feasible to run the code on a desktop please note it below.]-->
 
-3) Instrument- or software-specific information needed to interpret the data:  
-*[If software is needed to interpret the data, explain where to get the software. If software is not openly available include it in the dataset (if possible). If including the software is not possible consider changing the format of the dataset. Include version of software. ]*
+## Contributing
+<!--[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]-->
 
+-----------------------------------------
+# HUMAN SUBJECT RESEARCH STUDY INFORMATION: 
+-----------------------------------------
 
-4) Standards and calibration information, if appropriate:
+## Was the study evaluated by an Institutional Review Board (IRB) or any other Ethics Committee?
+<!--[Yes/No. If yes, give details like the IRB committee that reviewed the work, or the number of the approval document]-->
 
-
-5) Environmental/experimental conditions:  
-*[e.g., cloud cover, atmospheric influences, computational environment, etc.]*
-
-
-6) Describe any quality-assurance procedures performed on the data:
-
-
-7) People involved with sample collection, processing, analysis and/or submission:  
-*[If they are not include as collaborators, or if you want to describe more carefully who did what.]*
-
-
-
-## DATA & FILE OVERVIEW
-
-
-*[All files in the dataset should be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]*  
-*[Filenames should include extension.]*
-
-
-
-1) File List  
-
-      A. Filename:
-        Short description:
-
-      B. Filename:
-        Short description:
-
-      C. Filename:
-        Short description:
-
-
-2) Relationship between files:
-
-
-3) Formats  
-*[List all the formats present in this dataset. Include explanations or instructions if necessary (e.g. links to page describing a metadata standard)]*
-
-
-
-## TABULAR DATA-SPECIFIC INFORMATION FOR: *[FILENAME]*
-
-
-
-*[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. Include the units.]*
-
-
-1) Number of variables:
-
-
-2) Number of cases/rows:
-
-
-
-3) Missing data codes:
-        Code/symbol        Definition
-        Code/symbol        Definition
-
-
-4) Variable List  
-*[Include all information that is important: Value labels if appropriate. Units if appropriate. Min and Max values if appropriate. ]*  
-*[Example:]*
-
-    1. Name:  
-    Description:   
-
-    2. Name:  
-    Description:    
-
-    3. Name:  
-    Description:   
-
-    4. Name:  
-    Description:  
-
-    5. Name:  
-    Description:    
-
-    6. Name:    
-    Description:   
-
-    7. Name:    
-    Description:     
-
-    8. Name:    
-    Description:   
-
-    9. Name:   
-    Description:  
-
-    10. Name:  
-    Description:    
-
-    11. Name:   
-    Description:  
-
-    12. Name:    
-    Description:   
-
-    13. Name:   
-    Description:    
-
-    14. Name:    
-    Description:    
-
-    15. Name:   
-    Description:  
-
-    16. Name:   
-    Description:    
-
-    17. Name:    
-    Description:   
-
-    18. Name:    
-    Description:  
-
-    19. Name:   
-    Description:  
-
-    20. Name:   
-    Description:  
-
-    *ect...*
-
-## CODE-SPECIFIC INFORMATION:
-
-
-1) Installation  
-*[Instructions to install the software, if necessary]*
-
-2) Requirements  
-*[Describe all programs and libraries that your code relies on. What should a user install to make sure that the code can be run successfully?]*
-
-3) Usage  
-*[Describe how to use the code. Include examples]*
-
-4) Support  
-*[Will the authors support others that want to use these scripts?]*
-
-5) Contributing  
-*[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]*
-
-
-
-## OTHER:
-
-*[Include any other important information about the data that you did not have opportunity to discuss anywhere in this template]*
+-----------------------------------------
+# OTHER: 
+-----------------------------------------
+<!--[Include any other important information about the data that you did not have opportunity to discuss anywhere in this template]-->

@@ -26,52 +26,50 @@ This documentation file was generated on [date in YYYY-MM-DD format] by [Name]
 <!--[Role: role of the author in the dataset. Consider using the CreDit taxonomy to describe these roles: http://credit.niso.org/contributor-roles-defined/]  -->
 <!--[Creators are mentioned when citing the dataset. Make sure that they coincide with the Creator field in the repository record]-->
 
-Name:
-Institution:
-College, School or Department:
-Address:
-Email:
-ORCID:
-Role:
+### Name:
+* Institution:
+* College, School or Department:
+* Address:
+* Email:
+* ORCID:
+* Role:
 
-
-
-Name:
-Institution:
-College, School or Department:
-Address:
-Email:
-ORCID:
-Role:
+### Name:
+* Institution:
+* College, School or Department:
+* Address:
+* Email:
+* ORCID:
+* Role:
 
 ## Contributor information
 <!--[Contributors are not authors, they are collaborators that have contributed somehow to the dataset. They are not mentioned when citing the dataset. Make sure that they coincide with the Contributor field in the repository record.]-->
 
-Name:
-Institution:
-College, School or Department:
-Address:
-Email:
-ORCID:
-Role:
+### Name:
+* Institution:
+* College, School or Department:
+* Address:
+* Email:
+* ORCID:
+* Role:
 
-Name:
-Institution:
-College, School or Department:
-Address:
-Email:
-ORCID:
-Role:
+### Name:
+* Institution:
+* College, School or Department:
+* Address:
+* Email:
+* ORCID:
+* Role:
 
 ## Contact Information - REQUIRED
 <!--[Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]-->
 
-Name:
-Institution:
-College, School or Department:
-Address:
-Email:
-ORCID:
+### Name:
+* Institution:
+* College, School or Department:
+* Address:
+* Email:
+* ORCID:
 
 ## Publisher
 Oregon State University
@@ -169,14 +167,14 @@ Oregon State University
 <!--[Filenames should include extension.]-->
 
 ## File List
-   A. Filename:        
-      Short description:        
+   ### Filename:        
+   * Short description:        
         
-   B. Filename:        
-      Short description:        
+   ### Filename:        
+   * Short description:        
         
-   C. Filename:        
-      Short description:
+   ### Filename:        
+   * Short description:
 
 ## Relationship between files
 
@@ -201,20 +199,19 @@ Oregon State University
 <!--[Include all information that is important: Value labels if appropriate. Units if appropriate. Min and Max values if appropriate. ]-->
 
    Example. 
-   * Variable: Species 
-      - Description: Species of the Drosophila sampled
-      - Values:
+   ### Variable: Species 
+      * Description: Species of the Drosophila sampled
+      * Values:
          DML = Drosophila melanogaster
          DMJ = Drosophila mojavensis
          O = Other                
-
-   * Variable: <!--[variable name]-->
-      - Description: <!--[description of the variable]-->
-      - Units: <!--[units if appropriate]-->
+   ### Variable: <!--[variable name]-->
+      * Description: <!--[description of the variable]-->
+      * Units: <!--[units if appropriate]-->
                     
-   * Variable: <!--[variable name]-->
-      - Description: <!--[description of the variable]-->
-      - Units: <!--[units if appropriate]-->
+   ### Variable: <!--[variable name]-->
+      * Description: <!--[description of the variable]-->
+      * Units: <!--[units if appropriate]-->
 
 -----------------------------------------
 # CODE-SPECIFIC INFORMATION: 
